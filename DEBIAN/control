@@ -1,10 +1,10 @@
-Package: iceweasel-fake
-Version: 0.0.1
+Package: iceweasel
+Version: 1:0.0.1
 Section: web
 Priority: optional
 Architecture: all
 Depends: firefox
-Provides: iceweasel
+Provides:
 Suggests:
 Conflicts:
 Maintainer: Alexander Kudrevatykh <alexander@kudrevatykh.com>
