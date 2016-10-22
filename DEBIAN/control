@@ -1,0 +1,11 @@
+Package: iceweasel-fake
+Version: 0.0.1
+Section: web
+Priority: optional
+Architecture: all
+Depends: firefox
+Provides: iceweasel
+Suggests:
+Conflicts:
+Maintainer: Alexander Kudrevatykh <alexander@kudrevatykh.com>
+Description: Provides iceweasel for gnome
